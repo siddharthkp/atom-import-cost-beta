@@ -1,0 +1,18 @@
+{
+  "name": "atom-import-cost",
+  "main": "./lib/main",
+  "version": "0.8.5",
+  "description": "Get the size of your Node module dependencies",
+  "keywords": [
+    "size"
+  ],
+  "repository": "https://github.com/siddharthkp/atom-import-cost",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "import-cost": "1.1.1",
+    "filesize": "3.5.10"
+  }
+}
