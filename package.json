@@ -1,7 +1,7 @@
 {
   "name": "atom-import-cost-beta",
   "main": "./lib/main",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Get the size of your Node module dependencies",
   "keywords": [
     "size"
